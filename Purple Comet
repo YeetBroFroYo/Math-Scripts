@@ -1,0 +1,12 @@
+**THESE ARE SPECIFIC PROBLEMS SELECTED SUCH THAT IT IS MORE EFFICIENT TO SOLVE WITH A SCRIPT** **ALL THE PROBLEMS FROM PURPLE COMET CAN BE FOUND HERE: https://purplecomet.org/?action=resource/oldcontests**
+
+2023 Spring Meet:
+
+Problem 7
+The integers m and n are each greater than 4 and satisfy the equation
+(4m + 5)(4n + 5) − (3m + 2)(3n + 2) = 2023.
+Find m + n.
+
+Problem 11
+Find the positive even integer n for which
+1^2 + 2^2 + 3^2 + · · · + n^2 = 4(1 + 3 + 5 + · · · + 3(n − 1))
